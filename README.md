@@ -40,9 +40,6 @@
 
 <table>
 <tr>
-<td>  
-<img src="https://leetcard.jacoblin.cool/varshh_7?theme=dark&font=Karma&ext=activity" />  
-</td>
 <td>
 <img src="https://leetcard.jacoblin.cool/varshh_7?theme=dark&font=Karma&ext=contest" />
 </td>
