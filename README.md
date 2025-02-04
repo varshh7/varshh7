@@ -51,10 +51,10 @@
 <table>
 <tr>
 <td>  
-<img src="https://leetcard.jacoblin.cool/varshh7?theme=dark&font=Karma&ext=activity" />  
+<img src="https://leetcard.jacoblin.cool/varshh_7?theme=dark&font=Karma&ext=activity" />  
 </td>
 <td>
-<img src="https://leetcard.jacoblin.cool/varshh7?theme=dark&font=Karma&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/varshh_7?theme=dark&font=Karma&ext=contest" />
 </td>
 </tr>
 </table>
@@ -63,34 +63,20 @@
 
 ## 🔥 Featured Projects  
 
-### 🛒 **E-Commerce Platform**  
-A modern **full-stack** e-commerce site with advanced **UI/UX** and **backend integration**.  
+### 💼 **Job Portal (Full-Stack)**  
+A feature-rich **job portal** built with **React, Node.js, and MongoDB** that connects job seekers with employers. Includes **resume parsing, job recommendations, and authentication**.  
 
-### 🤖 **Machine Learning & Deep Learning**  
-Cutting-edge **ML/DL models** implemented for real-world **prediction and automation** tasks.  
+### 🎨 **AI Background Removal Application**  
+An advanced **AI-powered image processing tool** that removes backgrounds from images using **Deep Learning (U-Net, OpenCV, and TensorFlow)**.  
 
-### ☁️ **Cloud-Based Services**  
-Highly scalable and **cloud-native applications** with **CI/CD pipelines**.  
-
----
+### 😊 **Text Emotion Analysis**  
+A **Natural Language Processing (NLP) model** that analyzes **emotions from text** (e.g., happy, sad, angry) using **Transformers and LSTMs** for sentiment classification.  
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-s-6a3397259/)  
+📧 **Email:** varshasoundar7@gmail.com  
 
----
 
-### 📝 How to Use This  
-
-1. Create a **new repository** named **`varshh7`** (or your GitHub username).
-2. Inside the repo, create a file named **`README.md`**.
-3. Copy and paste this Markdown code into the **`README.md`** file.
-4. Commit and push it to GitHub! 🎉  
-
----
-
-This **GitHub Profile README** now has **a well-structured tech stack table** and **LeetCode problem stats**! 🚀 Let me know if you need any modifications! 😊🔥  
 
 
