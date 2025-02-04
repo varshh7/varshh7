@@ -77,13 +77,4 @@ Edit
 
 ---
 
-## 🔥 Featured Projects  
 
-### 🛒 **E-Commerce Platform**  
-A modern **full-stack** e-commerce site with advanced **UI/UX** and **backend integration**.  
-
-### 🤖 **Machine Learning & Deep Learning**  
-Cutting-edge **ML/DL models** implemented for real-world **prediction and automation** tasks.  
-
-### ☁️ **Cloud-Based Services**  
-Highly scalable and **cloud-native applications** with **CI/CD pipelines**.
