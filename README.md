@@ -36,16 +36,6 @@
 
 ---
 
-## 🏆 Achievements & Milestones  
-
-🎯 **100+ Problems Solved on LeetCode**  
-🌟 **Contributed to 5+ Open Source Projects**  
-🛠️ **Built a fully functional E-Commerce Site**  
-🚀 **Developed ML/DL models for real-world applications**  
-☁️ **Deployed scalable apps on cloud platforms**  
-
----
-
 ## 🔢 LeetCode Stats  
 
 <table>
@@ -60,17 +50,6 @@
 </table>
 
 ---
-
-## 🔥 Featured Projects  
-
-### 💼 **Job Portal (Full-Stack)**  
-A feature-rich **job portal** built with **React, Node.js, and MongoDB** that connects job seekers with employers. Includes **resume parsing, job recommendations, and authentication**.  
-
-### 🎨 **AI Background Removal Application**  
-An advanced **AI-powered image processing tool** that removes backgrounds from images using **Deep Learning (U-Net, OpenCV, and TensorFlow)**.  
-
-### 😊 **Text Emotion Analysis**  
-A **Natural Language Processing (NLP) model** that analyzes **emotions from text** (e.g., happy, sad, angry) using **Transformers and LSTMs** for sentiment classification.  
 
 ## 🌍 Connect With Me  
 
